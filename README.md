@@ -1,59 +1,68 @@
-<h1 align="center">Salut ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> Je suis louis Marec</h1>
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=180&section=header&text=Louis%20Marec&fontSize=40&fontAlign=center&fontColor=ffffff)
 
-
-## 👨🏻‍💻 About Me:
-
-
-- 🔭 En ce moment je travaille sur `quelque chose d'intéressant`.
-
-- 🌱 je suis en train d'apprendre `la régresssion linéaire`
-
-- 👯 Je cherche à collaborer pour des `Projets Dev`
-
-- 🤔 je cherche de l'aide pour `la Programmation Compétitive`
-
-- 💬 Demandez moi n'importe quoi, mais surtout les Maths :sweat_smile:
-
-- 👨‍💻 Life Hack: Apprendre de nouvelle Tech :fire: et partager ce que tu as appris :tada:
-
-- ⚡ Fun fact: je perds la plupars de mon temps sur les jeux Vidéo
-
-## 🛠️ Technologies et Outils que j'utilise:
-
-<p>
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
-<img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
-<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
-<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
- <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
-<img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
-<img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
-<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
-<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
-<img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
-<img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
- <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
- <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
- <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
+<p align="center">
+  Étudiant en informatique | Développeur Web Fullstack | Passionné par les technologies modernes
 </p>
 
-## ❤️ Contactez-moi:
+---
 
-<p><a href="https://x.com/WowAToast" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white"  height="30px"/></a> </a> <a href="https://www.instagram.com/louismarec1/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a> <a href="https://github.com/Toastaspiring" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"  height="30px"/>
+## 👨🏻‍💻 À propos de moi
+
+- 🎓 Étudiant en informatique, passionné par le développement fullstack et l'architecture logicielle.
+- 🔭 Je travaille actuellement sur un **site de paris e-sport avec une monnaie fictive** basé sur l'univers de League of Legends.
+- 🌱 J’explore actuellement **Vue.js**, **Docker**, et l'**optimisation d’API Node.js**.
+- 💡 J’aime concevoir des solutions utiles, avec une attention particulière portée sur la performance et l'expérience utilisateur.
+- 🤝 Toujours ouvert à la collaboration sur des projets tech stimulants.
+- 🧠 Domaines de prédilection : **mathématiques**, **backend**, **modélisation de données**.
+- ⚡ Fun fact : Je suis meilleur pour coder des bots de jeu que pour gagner les parties 😅
+
+---
+
+## 🛠️ Technologies & Outils
+
+<details>
+  <summary>Clique pour voir la liste complète</summary>
+  
+  <p>
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25px"/>
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" height="25px"/>
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" height="25px"/>
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" height="25px"/>
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25px"/>
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white" height="25px"/>
+    <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25px"/>
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="25px"/>
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="25px"/>
+  </p>
+</details>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Toastaspiring&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Toastaspiring&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px"/>
 </p>
 
-## 📊 Mon Data GitHub:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Toastaspiring&theme=monokai&margin-w=15&no-frame=true"/>
+</p>
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Toastaspiring&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Toastaspiring&" alt="Toastaspiring" />
-</div>
+---
+
+## 📫 Me contacter
+
+<p align="center">
+  <a href="https://x.com/WowAToast" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" height="30px"/></a>
+  <a href="https://www.instagram.com/louismarec1/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30px"/></a>
+  <a href="https://github.com/Toastaspiring" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30px"/></a>
+</p>
+
+---
+
+<p align="center">Merci de visiter mon profil 👋 Au plaisir d’échanger !</p>
