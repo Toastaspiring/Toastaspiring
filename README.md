@@ -1,4 +1,6 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=180&section=header&text=Louis%20Marec&fontSize=40&fontAlign=center&fontColor=ffffff)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=180&section=header&text=Louis%20Marec&fontSize=40&fontAlign=center&fontColor=ffffff" />
+</p>
 
 <p align="center">
   Étudiant en informatique | Développeur Web Fullstack | Passionné par les technologies modernes
@@ -46,7 +48,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Toastaspiring&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Toastaspiring&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px"/>
+  <img src="https://streak-stats.demolab.com?user=Toastaspiring&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px"/>
 </p>
 
 <p align="center">
