@@ -51,9 +51,9 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Toastaspiring&theme=tokyonight&hide_border=true" alt="Activity Graph" height="180px"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Toastaspiring&theme=monokai&margin-w=15&no-frame=true"/>
-</p>
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toastaspiring&layout=compact&theme=tokyonight" />
+</a>
 
 ---
 
