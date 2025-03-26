@@ -47,7 +47,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Toastaspiring&show_icons=true&theme=tokyonight" /> <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Toastaspiring&show_icons=true&theme=tokyonight" />
+  <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toastaspiring&layout=compact&theme=tokyonight" />
 </p>
 
@@ -61,7 +62,6 @@
   <a href="https://www.instagram.com/louismarec1/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30px"/></a>
   <a href="https://github.com/Toastaspiring" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30px"/></a>
 </p>
-<br />
 <p align="center">
   louismarec@outlook.com || louis.marec@viadex.fr
 </p>
