@@ -47,12 +47,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Toastaspiring&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Toastaspiring&theme=tokyonight&hide_border=true" alt="Activity Graph" height="180px"/>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toastaspiring&layout=compact&theme=tokyonight" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toastaspiring&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Toastaspiring&show_icons=true&theme=tokyonight" />
 </p>
+
 
 ---
 
