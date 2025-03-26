@@ -48,7 +48,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Toastaspiring&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
-  <img src="https://streak-stats.demolab.com?user=Toastaspiring&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Toastaspiring&theme=tokyonight&hide_border=true" alt="Activity Graph" height="180px"/>
 </p>
 
 <p align="center">
