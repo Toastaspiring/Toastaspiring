@@ -1,15 +1,13 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Louis+Marec;Fullstack+Developer;Passionné+de+Maths;Toujours+en+train+d'apprendre" alt="Typing SVG" />
-</h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=3b82f6&height=120&section=header&text=Bienvenue%20sur%20mon%20GitHub!&fontSize=24&fontColor=ffffff&fontAlign=50" />
-</p>
 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=180&section=header&text=Louis%20Marec&fontSize=40&fontAlign=center&fontColor=ffffff" />
 </p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Étudiant+en+informatique;Fullstack+Developer;Passionné+de+Maths;" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   Étudiant en informatique | Développeur Web Fullstack | Passionné par les technologies modernes
