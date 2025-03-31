@@ -65,4 +65,4 @@
 
 ---
 
-<p align="center">Merci de visiter mon profil 👋 Au plaisir d’échanger !</p>
+<p align="center">Merci d'avoir visiter mon profil 👋 Au plaisir d’échanger !</p>
