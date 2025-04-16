@@ -5,13 +5,14 @@
 
 ## 👨🏻‍💻 À propos de moi
 
-- 🎓 Étudiant en informatique, passionné par le développement fullstack et l'architecture logicielle.
-- 🔭 Je travaille actuellement sur un **site de paris e-sport avec une monnaie fictive** basé sur l'univers de League of Legends.
+- 🎓 Passionné d'informatique, j’aime quand **tout est carré** — code propre, structure claire, projets bien tenus.
+- 🔭 Je travaille maintenant sur le repo [**MSPR Analyse IT**]([https://github.com/Toast-bzr/MSPR-Analyse-it](https://github.com/Toastaspiring/MSPR-ANALIZE-IT)), pour l'école.
 - 🌱 J’explore actuellement **Vue.js**, **Docker**, et l'**optimisation d’API Node.js**.
 - 💡 J’aime concevoir des solutions utiles, avec une attention particulière portée sur la performance et l'expérience utilisateur.
 - 🤝 Toujours ouvert à la collaboration sur des projets tech stimulants.
 - 🧠 Domaines de prédilection : **mathématiques**, **backend**, **modélisation de données**.
-- ⚡ Fun fact : Je suis meilleur pour coder des bots de jeu que pour gagner les parties 😅
+- ⚡ Fun fact : J’adore la **traduction en langue étrangère**, c’est mon petit plaisir analytique.
+- 😤 Ce qui me rend dingue ? Le **foutoir dans l’organisation** : pas de séparation claire entre dev et prod, ou pire, celui qui déploie en prod direct… *haaaaaa*.
 
 ---
 
