@@ -1,7 +1,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=180&section=header&fontSize=40&fontAlign=center&fontColor=ffffff" />
-  <h1>Marec Louis</h1>
+  <h1 align="center">Marec Louis</h1>
 </p>
 
 ## 👨🏻‍💻 À propos de moi
