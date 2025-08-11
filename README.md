@@ -48,7 +48,3 @@
 <p align="center">
   louismarec@outlook.com </br>louis.marec@viadex.fr
 </p>
-
----
-
-<p align="center">Merci d'avoir visiter mon profil 👋 Au plaisir d’échanger !</p>
