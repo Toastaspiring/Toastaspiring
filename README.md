@@ -3,16 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=180&section=header&fontSize=40&fontAlign=center&fontColor=ffffff" />
 </p>
 
-## 👨🏻‍💻 À propos de moi
-
-- 🎓 Passionné d'informatique, j’aime quand **tout est carré** — code propre, structure claire, projets bien tenus.
-- 🔭 Je travaille maintenant sur le repo [**MSPR Analyse IT**]([https://github.com/Toast-bzr/MSPR-Analyse-it](https://github.com/Toastaspiring/MSPR-ANALIZE-IT)), pour l'école.
-- 🌱 J’explore actuellement **Vue.js**, **Docker**, et l'**optimisation d’API Node.js**.
-- 💡 J’aime concevoir des solutions utiles, avec une attention particulière portée sur la performance et l'expérience utilisateur.
-- 🤝 Toujours ouvert à la collaboration sur des projets tech stimulants.
-- 🧠 Domaines de prédilection : **mathématiques**, **backend**, **modélisation de données**.
-- ⚡ Fun fact : J’adore la **traduction en langue étrangère**, c’est mon petit plaisir analytique.
-- 😤 Ce qui me rend dingue ? Le **foutoir dans l’organisation** : pas de séparation claire entre dev et prod, ou pire, celui qui déploie en prod direct… *haaaaaa*.
+> 💻 Code carré, café serré. Déploie pas en prod direct, sinon je fais un commit dans ta cuisine.
 
 ---
 
