@@ -42,7 +42,6 @@
 <p align="center">
   <a href="https://x.com/WowAToast" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" height="30px"/></a>
   <a href="https://www.instagram.com/louismarec1/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30px"/></a>
-  <a href="https://github.com/Toastaspiring" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30px"/></a>
   <a href="https://www.linkedin.com/in/marec-louis/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/></a>
 </p>
 
