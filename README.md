@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-  louismarec@outlook.com || louis.marec@viadex.fr
+  louismarec@outlook.com </br>louis.marec@viadex.fr
 </p>
 
 ---
