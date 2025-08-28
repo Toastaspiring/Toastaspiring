@@ -28,11 +28,8 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Toastaspiring&show_icons=true&theme=tokyonight" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toastaspiring&layout=compact&theme=tokyonight" />
-</p>
+| <img src="https://github-readme-stats.vercel.app/api?username=Toastaspiring&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toastaspiring&layout=compact&theme=tokyonight&hide_border=true" /> |
+|---|---|
 
 
 ---
