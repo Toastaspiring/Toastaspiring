@@ -78,7 +78,7 @@
 
 <div align="center">
 
-| <img src="https://readme-stats-e3lg23pbb-toastaspirings-projects.vercel.app/api?username=toastaspiring&show_icons=true&theme=tokyonight&hide_border=true" /> | <img src="https://readme-stats-e3lg23pbb-toastaspirings-projects.vercel.app/api/top-langs/?layout=compact&theme=tokyonight&hide_border=true&username=Toastaspiring" /> |
+| <img src="https://readme-stats-lyart-two.vercel.app/api?username=toastaspiring&show_icons=true&theme=tokyonight&hide_border=true" /> | <img src="https://readme-stats-lyart-two.vercel.app/api/top-langs/?layout=compact&theme=tokyonight&hide_border=true&username=Toastaspiring" /> |
 |---|---|
 
 </div>
