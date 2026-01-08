@@ -80,7 +80,8 @@
 
 | <img src="https://readme-stats-lyart-two.vercel.app/api?username=toastaspiring&show_icons=true&theme=tokyonight&hide_border=true" /> | <img src="https://readme-stats-lyart-two.vercel.app/api/top-langs/?layout=compact&theme=tokyonight&hide_border=true&username=Toastaspiring" /> |
 |---|---|
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://readme-stats-lyart-two.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </div>
 
 ---
