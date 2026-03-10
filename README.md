@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=180&section=header&fontSize=40&fontAlign=center&fontColor=ffffff" />
 </p>
 
-💻 Code carré, café serré. Déploie pas en prod direct, sinon je fais un commit dans ta cuisine.
+Code carré, café serré. Déploie pas en prod direct, sinon je fais un commit dans ta cuisine.
 
 ---
 
