@@ -11,7 +11,6 @@
 
 ---
 
-## 🛠️ Technologies & Outils
 <p align="center">
   <!-- Programming Languages -->
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -87,8 +86,6 @@
 </div>
 
 ---
-
-## 📫 Me contacter
 
 <p align="center">
   <a href="https://x.com/WowAToast" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" height="30px"/></a>
