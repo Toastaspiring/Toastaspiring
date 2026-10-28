@@ -8,6 +8,7 @@
 <p align="center">
   <sub>Salut, je suis Louis. J’aime traduire et coder, et je prends plaisir à créer des choses bien structurées sous le capot. Je joue à League of Legends, et je suis un grand fan de jeux d’exploration, d’alchimie et de botanique. Ravi de faire ta connaissance !</sub>
 </p>
+
 ---
 
 ## 🛠️ Technologies & Outils
