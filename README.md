@@ -2,9 +2,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=180&section=header&fontSize=40&fontAlign=center&fontColor=ffffff" />
 </p>
-
-Code carré, café serré. Déploie pas en prod direct, sinon je fais un commit dans ta cuisine.
-
+<p align="center">
+  Hi, I’m Louis. I enjoy translating and coding, and I like building things that are well structured under the hood. I play League of Legends, and I’m a big fan of exploration, alchemy and botany games. Nice to meet you!
+</p>
+<p align="center">
+  <sub>Salut, je suis Louis. J’aime traduire et coder, et je prends plaisir à créer des choses bien structurées sous le capot. Je joue à League of Legends, et je suis un grand fan de jeux d’exploration, d’alchimie et de botanique. Ravi de faire ta connaissance !</sub>
+</p>
 ---
 
 ## 🛠️ Technologies & Outils
